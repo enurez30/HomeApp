@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlasticMobileHomeApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">time tick tick..</string>
+    <string name="top_bar_txt">Plastic mobile home app</string>
+</resources>
